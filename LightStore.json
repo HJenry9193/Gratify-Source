@@ -6,7 +6,9 @@
   "website": "",
   "patreonURL": "",
   "tintColor": "#6156e2",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.spotify.client"
+  ],
   "apps": [
     {
       "name": "EeveeSpotify",
@@ -14,12 +16,22 @@
       "marketplaceID": "",
       "developerName": "SideloadLabs",
       "subtitle": "SideStore, AltStore 사용자 전용",
-      "localizedDescription": "** 일본 / 미국 이메일 계정이 필수로 필요합니다!! **",
+      "localizedDescription": "** 일본 / 미국 이메일 계정이 필수로 필요합니다!! **\n** 2주에 한 번 VPN을 사용해 설정한 나라로 접속해줘야 합니다!! **\n\n스포티파이에 유용한 트윅 (광고 제거, 가사 제공자 변경)을 추가해줍니다.\nSideStore, AltStore 사용자 전용입니다.\n\n출처: https://github.com/SideloadLabs/EeveeSpotifyReincarnated",
       "iconURL": "https://i.imgur.com/jZcg04E.png",
       "tintColor": "#1dda63",
       "category": "entertainment",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/HJenry9193/LightStore/releases/download/lightstore/EeveeSpotify-6.6.8-9.1.74.ipa",
+          "size": 124000000,
+          "version": "9.1.74",
+          "buildVersion": "",
+          "date": "2026-08-27T21:58:00+09:00",
+          "localizedDescription": "스포티파이 버전: v9.1.74\n이브이 버전: v6.6.8\n\n* 릴리스 노트\nSpotify 9.1.74 지원\n",
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
