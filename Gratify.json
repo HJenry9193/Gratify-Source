@@ -24,10 +24,10 @@
       "versions": [
         {
           "version": "9.1.88",
-          "date": "2026-11-08T04:32:00+09:00",
+          "date": "2026-11-07T19:32:00+09:00",
           "localizedDescription": "스포티파이 버전: v9.1.88\nGratify 버전: v0.0.5\n\n* 릴리스 노트\nSpotify 9.1.88 지원\n",
-          "downloadURL": "https://github.com/HJenry9193/LightStore/releases/download/lightstore/EeveeSpotify-6.6.8-9.1.74.ipa",
-          "size": 124000000,
+          "downloadURL": "https://github.com/HJenry9193/Gratify-Source/releases/download/gratify-0.5.0/gratify-0.5.0.ipa",
+          "size": 126000000,
           "buildVersion": "",
           "minOSVersion": null
         }
