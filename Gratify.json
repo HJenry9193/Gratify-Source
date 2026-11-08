@@ -4,7 +4,6 @@
   "description": "Make me happy, Spotify!",
   "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZL3B-kRF8cmfjBDfWqKRDuJjjWAoAXYlZcDKMDxcoQ&s=10",
   "website": "https://github.com/HJenry9193/LightStore",
-  "patreonURL": "",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.spotify.client"
