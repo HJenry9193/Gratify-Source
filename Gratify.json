@@ -4,6 +4,7 @@
   "description": "Make me happy, Spotify!",
   "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZL3B-kRF8cmfjBDfWqKRDuJjjWAoAXYlZcDKMDxcoQ&s=10",
   "website": "https://github.com/HJenry9193/LightStore",
+  "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#6156e2",
   "featuredApps": [
     "com.spotify.client"
@@ -12,6 +13,7 @@
     {
       "name": "Gratify",
       "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
       "developerName": "HJenry9193",
       "subtitle": "SideStore, AltStore 사용자 전용",
       "localizedDescription": "** 일본 / 미국 스포티파이 이메일 계정이 필수로 필요합니다!! **\n** 2주에 한 번 VPN을 사용해 설정한 나라로 접속해줘야 합니다!! **\n\n스포티파이에 유용한 트윅 (광고 제거, 가사 제공자 변경)을 추가해줍니다.\nSideStore, AltStore 사용자 전용입니다.\n\n출처: https://github.com/SideloadLabs/EeveeSpotifyReincarnated",
@@ -21,12 +23,22 @@
       "screenshots": [],
       "versions": [
         {
+          "downloadURL": "https://github.com/HJenry9193/Gratify-Source/releases/download/gratify/gratify-0.6.0.ipa",
+          "size": 126000000,
+          "version": "9.1.88",
+          "buildVersion": "",
+          "date": "2026-11-12T12:36:00+09:00",
+          "localizedDescription": "스포티파이 버전: v9.1.88\nGratify 버전: v0.6.0\n\n* 릴리스 노트\nMusixmatch 가사 번역 수정\n가사 로드 알고리즘 수정\n",
+          "minOSVersion": null
+        },
+        {
           "version": "9.1.88",
           "date": "2026-11-07T19:32:00+09:00",
           "localizedDescription": "스포티파이 버전: v9.1.88\nGratify 버전: v0.0.5\n\n* 릴리스 노트\nSpotify 9.1.88 지원\n",
           "downloadURL": "https://github.com/HJenry9193/Gratify-Source/releases/download/gratify-0.5.0/gratify-0.5.0.ipa",
           "size": 126000000,
-          "buildVersion": ""
+          "buildVersion": "",
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -49,7 +61,8 @@
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
-      }
+      },
+      "patreon": {}
     }
   ],
   "news": [
@@ -57,10 +70,12 @@
       "title": "Gratify 0.5.0 버전 업데이트",
       "identifier": "news_hswsc2g7xh",
       "caption": "Gratify를 0.5.0 버전으로 업데이트했습니다.",
-      "date": "2026-11-08T13:34:00+09:00",
+      "date": "2026-11-08T13:34",
       "tintColor": "#1DDA62",
+      "imageURL": "",
       "notify": true,
-      "url": "https://example.com/new_feature_details"
+      "url": "https://example.com/new_feature_details",
+      "appID": null
     }
   ]
 }
