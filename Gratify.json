@@ -26,7 +26,7 @@
           "downloadURL": "https://github.com/HJenry9193/Gratify-Source/releases/download/gratify/gratify-0.6.0.ipa",
           "size": 126000000,
           "version": "9.1.88",
-          "buildVersion": "",
+          "buildVersion": "918802209",
           "date": "2026-11-12T12:36:00+09:00",
           "localizedDescription": "스포티파이 버전: v9.1.88\nGratify 버전: v0.6.0\n\n* 릴리스 노트\nMusixmatch 가사 번역 수정\n가사 로드 알고리즘 수정\n",
           "minOSVersion": null
@@ -37,7 +37,7 @@
           "localizedDescription": "스포티파이 버전: v9.1.88\nGratify 버전: v0.0.5\n\n* 릴리스 노트\nSpotify 9.1.88 지원\n",
           "downloadURL": "https://github.com/HJenry9193/Gratify-Source/releases/download/gratify-0.5.0/gratify-0.5.0.ipa",
           "size": 126000000,
-          "buildVersion": "",
+          "buildVersion": "918802209",
           "minOSVersion": null
         }
       ],
@@ -56,8 +56,8 @@
           "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
           "NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
           "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
-          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSMotionUsageDescription": "This lets us understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images from Spotify.",
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
